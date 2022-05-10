@@ -10,6 +10,7 @@
 - miniconda
 - [oh my zsh](https://ohmyz.sh/#install)
 - xcode developer tools
+- homebrew
 
 
 ### Shortcuts
