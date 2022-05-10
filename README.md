@@ -1,7 +1,10 @@
 # new-computer-setup
 (for Mac)
 
+
 ### Download
+- google chrome
+- better snap tools
 - iterm2
 - vscode
 - miniconda
